@@ -17,7 +17,7 @@ header {
 	padding: 0 15px;
 }
 #content {
-	width: 23%;
+	width: 22%;
 	float: left;
 	padding: 5px 15px;
 }
@@ -30,8 +30,8 @@ header {
 }
 
 #sidebar {
-	width: 23%;
-	float: left;
+	width: 22%;
+	float: right;
 	padding: 5px 15px;
 }
 footer {
